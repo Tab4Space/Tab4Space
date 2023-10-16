@@ -1,8 +1,14 @@
 ### Hi there 👋
-
+<h3 align="left">Educations and Activities:</h3>
+<h3 align="left">Papers and Projects:</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.unrealengine.com/ko/"></a>
+  <a href="https://www.unrealengine.com/ko/"> Python </a>
+  <a href="https://www.blender.org/"> Blender </a>
+  <a href="https://www.python.org/"> Python </a>
+  <a href="https://pytorch.org/"> Pytorch </a>
+  C++
+  
 </p>
 
 
