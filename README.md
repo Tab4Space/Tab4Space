@@ -19,10 +19,22 @@
 <img src="https://img.shields.io/badge/cplusplus-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/TenserFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+### Contact
+<p align="left">
+  <a href="mailto:skypia0906@gmail.com">
+    <img src="https://img.shields.io/badge/skypia0906@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@tab4space">
+    <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 <!--
 **Tab4Space/Tab4Space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
