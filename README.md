@@ -15,7 +15,12 @@
 
 ### Languages and Tools
 <p align="left">
-
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white">
+<img src="https://img.shields.io/badge/cplusplus-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TenserFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
 
