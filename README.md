@@ -10,8 +10,8 @@
 - 🎮 RPG Game Simulator <a href="">(see more)</a>
 - 🥽 A Novel Approach for Virtual Locomotion Gesture Classification: Self-Teaching Vision Transformer for a Carpet-Type Tactile Sensor <a href="">(see more)</a>
 - 🥽 Seamless-walk: Natural and Comfortable Virtual Reality Locomotion Method with a High-resolution Tactile Sensor <a href="">(see more)</a>
-- 🚗 A New Open-Source Off-road Environment for Benchmark Generalization of Autonomous Driving <a href="">(see more)</a>
-- 🚗 Hierarchical Imitation Learning for Driving Off Road in Simulated Environment <a href="">(see more)</a>
+- 🚗 A New Open-Source Off-road Environment for Benchmark Generalization of Autonomous Driving <a href="https://github.com/Tab4Space/Off-road-Benchmark">(see more)</a>
+- 🚗 Hierarchical Imitation Learning for Driving Off Road in Simulated Environment <a href="https://github.com/Tab4Space/AutonomousDriving">(see more)</a>
 
 ### Languages and Tools
 <p align="left">
