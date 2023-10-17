@@ -15,11 +15,7 @@
 
 ### Languages and Tools
 <p align="left">
-  <a href="https://www.unrealengine.com/ko/"> Unreal Engine </a>
-  <a href="https://www.blender.org/"> Blender </a>
-  <a href="https://www.python.org/"> Python </a>
-  <a href="https://pytorch.org/"> Pytorch </a>
-  C++
+
 </p>
 
 
