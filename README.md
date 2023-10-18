@@ -7,7 +7,9 @@
 - 🎓 2010. 03. 02 ~ 2017. 02. 17) 세종대학교 컴퓨터공학과, 학사 졸업
 
 ### Papers and Projects
-- 🎮 RPG Game Simulator <a href="">(see more)</a>
+- 🎮 RPG Game Simulator
+  - RPG Simulator (C++) <a href="https://github.com/Tab4Space/RpgSimulator">(see more)</a>
+  - RPG Gym (Blueprint) <a href="https://github.com/Tab4Space/RPGGym">(see more)</a>
 - 🥽 A Novel Approach for Virtual Locomotion Gesture Classification: Self-Teaching Vision Transformer for a Carpet-Type Tactile Sensor <a href="https://github.com/Tab4Space/VrLocomotion">(see more)</a>
 - 🥽 Seamless-walk: Natural and Comfortable Virtual Reality Locomotion Method with a High-resolution Tactile Sensor <a href="https://github.com/Tab4Space/SeamlessWalk">(see more)</a>
 - 🚗 A New Open-Source Off-road Environment for Benchmark Generalization of Autonomous Driving <a href="https://github.com/Tab4Space/Off-road-Benchmark">(see more)</a>
