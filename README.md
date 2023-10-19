@@ -9,6 +9,7 @@
 ### Papers and Projects
 - 🎮 RPG Game Simulator
   - RPG Simulator (C++) <a href="https://github.com/Tab4Space/RpgSimulator">(see more)</a>
+  - FindArk (C++) <a href="https://github.com/Tab4Space/FindArk">(see more)</a>
   - RPG Gym (Blueprint) <a href="https://github.com/Tab4Space/RPGGym">(see more)</a>
 - 🥽 A Novel Approach for Virtual Locomotion Gesture Classification: Self-Teaching Vision Transformer for a Carpet-Type Tactile Sensor <a href="https://github.com/Tab4Space/VrLocomotion">(see more)</a>
 - 🥽 Seamless-walk: Natural and Comfortable Virtual Reality Locomotion Method with a High-resolution Tactile Sensor <a href="https://github.com/Tab4Space/SeamlessWalk">(see more)</a>
